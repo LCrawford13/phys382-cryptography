@@ -6,4 +6,4 @@ This is the code used in my 3rd year group project, it's quite basic and not ver
 
 
 ### Prerequisites
-Python (>=3.13), NumPy (>=2.3.3) and matplotlib (3.10.6) are required.
+Python (>=3.13), NumPy (>=2.3.3) and matplotlib (>=3.10.6) are required.
